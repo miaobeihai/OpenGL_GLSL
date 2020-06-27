@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="glew.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson200.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stb_image.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderLight.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelBox.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="GLSLProgram.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="GLContext.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGLWindow.h">
+      <Filter>header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="header">
+      <UniqueIdentifier>{dd5ee33a-8829-4eb9-ab9f-8fc5383e2a35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{5e15897c-7543-4c07-bf6f-7f0bdecd43f7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
