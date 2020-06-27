@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  glew.c
+  lesson001.cpp
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson001-环境建立\openglwindow.h(41): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1096): note: see declaration of '_splitpath'
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson001-环境建立\openglwindow.h(42): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+glew.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  lesson001-环境建立.vcxproj -> D:\Siki\全面解析OpenGL-Shader语言视频课程1.0\62课代码\source\lesson001-环境建立\../../bin/DebugWin32\lesson001-环境建立.exe
+  lesson001-环境建立.vcxproj -> ../../bin/DebugWin32\lesson001-环境建立.pdb (Full PDB)

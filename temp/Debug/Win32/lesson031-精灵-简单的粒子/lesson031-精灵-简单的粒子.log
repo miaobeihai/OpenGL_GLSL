@@ -1,0 +1,40 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  glew.c
+  stb_image.cpp
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\stb_image.cpp(172): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\stb_image.cpp(238): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\stb_image.cpp(290): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\stb_image.cpp(1544): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\stb_image.cpp(2432): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\stb_image.cpp(2472): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\stb_image.cpp(2765): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\stb_image.cpp(3051): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\stb_image.cpp(3265): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\stb_image.cpp(3568): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  lesson031.cpp
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\openglwindow.h(42): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1096): note: see declaration of '_splitpath'
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\openglwindow.h(43): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\lesson031.cpp(49): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\lesson031.cpp(93): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\lesson031.cpp(107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\lesson031.cpp(130): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1096): note: see declaration of '_splitpath'
+d:\siki\全面解析opengl-shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\lesson031.cpp(131): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Generating Code...
+glew.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  lesson031-精灵-简单的粒子.vcxproj -> D:\Siki\全面解析OpenGL-Shader语言视频课程1.0\62课代码\source\lesson031-精灵-简单的粒子\../../bin/DebugWin32\lesson031-精灵-简单的粒子.exe
+  lesson031-精灵-简单的粒子.vcxproj -> ../../bin/DebugWin32\lesson031-精灵-简单的粒子.pdb (Full PDB)
